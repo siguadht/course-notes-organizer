@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程笔记整理"
+  short_description: "汇总录音、教案与文档，确认大纲后输出 HTML 和飞书笔记"
+  default_prompt: "Use $course-notes-organizer to combine my course materials, show me an outline first, and create HTML and Feishu notes after I confirm."
